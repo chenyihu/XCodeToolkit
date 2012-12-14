@@ -1,0 +1,3 @@
+[submodule "DashIcons"]
+	path = DashIcons
+	url = https://github.com/chenyihu/DashIcons.git
