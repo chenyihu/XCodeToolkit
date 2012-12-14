@@ -7,3 +7,6 @@
 [submodule "xcconfigs"]
 	path = xcconfigs
 	url = https://github.com/jspahrsummers/xcconfigs.git
+[submodule "BuildKit"]
+	path = BuildKit
+	url = https://github.com/davidmorford/BuildKit.git
